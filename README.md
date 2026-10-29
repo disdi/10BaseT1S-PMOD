@@ -65,5 +65,5 @@ U2 clock qualification, Arty host timing and physical mating, stackup/DFM,
 ferrite land acceptance, and assembler placement preview remain open. Clean
 ERC/DRC is not fabrication approval.
 
-The inherited [Lone Dynamics notice](KATZE-LICENSE.md) and
-[PMOD library notice](kicad/libs/pmod-LICENSE) accompany this redistribution.
+License: [MIT, copyright 2024 disdi](LICENSE).
+The [PMOD library notice](kicad/libs/pmod-LICENSE) accompanies that library.
