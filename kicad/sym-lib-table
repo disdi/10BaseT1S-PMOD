@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "step0")(type "KiCad")(uri "${KIPRJMOD}/libs/step0.kicad_sym")(options "")(descr "Step 0 LAN8670 and PMOD"))
+  (lib (name "pmod")(type "KiCad")(uri "${KIPRJMOD}/libs/pmod.kicad_sym")(options "")(descr "PMOD symbols; this copy uses power_in on the power pins"))
+)

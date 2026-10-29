@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ACT1210")(type "KiCad")(uri "${KIPRJMOD}/libs/ACT1210.pretty")(options "")(descr "TDK ACT1210D land IND1512-9"))
+  (lib (name "pmod-conn_6x2")(type "KiCad")(uri "${KIPRJMOD}/libs/pmod-conn_6x2.pretty")(options "")(descr "PMOD 6x2 pin header"))
+)
