@@ -48,6 +48,7 @@ EZA-EG3W11AV.
 
 | Path | Role |
 | --- | --- |
+| [LICENSE](LICENSE) | MIT, copyright 2024 disdi |
 | [kicad/step0.kicad_pro](kicad/step0.kicad_pro) | KiCad 9 project |
 | [kicad/step0.kicad_sch](kicad/step0.kicad_sch) | Schematic |
 | [kicad/step0.kicad_pcb](kicad/step0.kicad_pcb) | Board |
